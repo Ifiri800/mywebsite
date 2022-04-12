@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dict"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https//Ifiri800.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
